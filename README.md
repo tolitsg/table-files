@@ -1,1 +1,3 @@
-copy files on one folder, then run [folder]/tb/tb.exe
+Copy all files on one folder
+Install VFP Runtime
+Run [folder]/tb/tb.exe
