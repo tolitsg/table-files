@@ -1,2 +1,1 @@
-copy files on one folder
-Run [folder]/tb/tb.exe
+copy files on one folder, then run [folder]/tb/tb.exe
